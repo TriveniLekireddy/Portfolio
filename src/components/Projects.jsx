@@ -44,9 +44,9 @@ const Projects = () => {
     {
       title: 'Portfolio',
       description:
-        'An interactive and responsive portfolio designed to highlight my skills, projects, and professional journey. Developed with Typescript, Tailwind CSS, and Framer Motion for a sleek user experience.',
+        'An interactive and responsive portfolio designed to highlight my skills, projects, and professional journey. Developed with React, Tailwind CSS, and Framer Motion for a sleek user experience.',
       image: FrontImage,
-      tech: ['Typescript', 'Tailwind CSS'],
+      tech: ['React', 'Tailwind CSS'],
       liveUrl: 'https://portfolio-triveni-x5oj.onrender.com',
       githubUrl: 'https://github.com/TriveniLekireddy/Portfolio-Triveni/tree/main',
       category: 'Web Application',
