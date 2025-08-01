@@ -48,7 +48,7 @@ const Projects = () => {
       image: FrontImage,
       tech: ['React', 'Tailwind CSS'],
       liveUrl: 'https://portfolio-triveni-x5oj.onrender.com',
-      githubUrl: 'https://github.com/TriveniLekireddy/Portfolio-Triveni/tree/main',
+      githubUrl: 'https://github.com/TriveniLekireddy/Portfolio',
       category: 'Web Application',
       icon: <Smartphone size={18} />,
     },
